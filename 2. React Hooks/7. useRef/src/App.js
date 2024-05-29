@@ -6,7 +6,7 @@ function App() {
 
   const focusInput = () => {
     inputElement.current.focus();
-    inputElement.current.value = "HuXn";
+    inputElement.current.value = "Vibhav";
   };
 
   return (
